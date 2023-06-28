@@ -1,0 +1,23 @@
+$myColor : red;
+h2{
+    color: $myColor;
+}
+container, .main{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+button{
+    margin-left: 7px;
+    cursor: pointer;
+}
+taskcount{
+    margin: 18px;
+}
+.search-box{
+ width: 600px;
+ border-radius: 15px;
+ font-size: 15px;
+}
